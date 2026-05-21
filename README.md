@@ -1,6 +1,7 @@
 
 ### Retail Sales Performance Dashboard
-### Dashboard Link: [Insert Power BI Service Link Here]
+
+
 ### Problem Statement
 This retail sales dashboard provides comprehensive insights into the performance of a retail store specializing in Food and Drinks product lines. The dashboard enables data-driven decision making by tracking key metrics, identifying trends, and highlighting areas for improvement across sales, products, customers, and regions.
 
